@@ -1,0 +1,2 @@
+﻿  Source.cpp
+d:\users\student\documents\visual studio 2017\projects\s_tl\s_tl\source.cpp(20): warning C4326: return type of 'main' should be 'int' instead of 'void'
